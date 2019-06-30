@@ -34,7 +34,7 @@ body {
 	background: white;
 }
 
-div iframe {
+div, iframe {
 	display:block;
 	margin: 0 auto;
 }
