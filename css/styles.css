@@ -35,7 +35,8 @@ body {
 }
 
 iframe {
-	display:block;
+	display: block;
+	margin: 0px auto;
 }
 
 table {
